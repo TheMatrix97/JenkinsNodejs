@@ -6,6 +6,10 @@
   "dependencies": {
     "express": "latest"
   },
+  "devDependencies": {
+    "mocha": "latest",
+    "supertest": "latest"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
